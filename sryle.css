@@ -1,0 +1,26 @@
+.range {
+    width: 100%;
+}
+
+.pro {
+    accent-color: #49f540;
+}
+
+.con1 {
+    accent-color: #ffde70;
+}
+
+.con2 {
+    accent-color: #c852ff;
+}
+.header {
+    background-color: #C9F9FF;
+    text-align: center;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid;
+    border-color: #728c90;
+    border-radius: 3px;
+}
